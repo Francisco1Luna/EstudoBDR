@@ -15,6 +15,10 @@
         <tools />
         <mcp-servers />
       </assistant-state>
+      <assistant-state connection-id="c58e0893-63df-4477-bef5-223ba9714e91" assistant-type="PUBLIC" default-profile-name="" selected-chat-id="" availability="AVAILABLE" acknowledgement="NONE" selected="true">
+        <tools />
+        <mcp-servers />
+      </assistant-state>
     </assistants>
     <selection-state>
       <model-selection />
@@ -45,6 +49,7 @@
     <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
+    <mapping file-url="file://$PROJECT_DIR$/src/Aula02.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula01.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
