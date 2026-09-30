@@ -49,4 +49,5 @@ create table if not exists cursos (
 alter table cursos
 add column idcurso int not null auto_increment primary key first;
 
-
+alter table gafanhotos
+change column prof profissao varchar(20) default '';
