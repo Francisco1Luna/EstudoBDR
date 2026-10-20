@@ -25,4 +25,4 @@ where carga > 35 and totaulas < 30;
 select nome, carga, totaulas from cursos
 where carga > 35 or totaulas < 30;
 
-#select é DML pois manipula tabelas
+#select é DQL pois manipula tabelas

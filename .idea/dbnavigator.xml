@@ -51,14 +51,12 @@
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$/src/Aula03.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula08.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
-    <mapping file-url="file://$USER_HOME$/AppData/Local/Temp/Dump-CeV01.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula09.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula02.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula04.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula05.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
+    <mapping file-url="file://$PROJECT_DIR$/src/Aula12.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula01.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
-    <mapping file-url="file://$USER_HOME$/AppData/Local/Temp/cadastro(1).sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
-    <mapping file-url="file://$USER_HOME$/AppData/Local/Temp/backup 02.09.19 - cadastro.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="mysql" />
     <mapping file-url="file://$PROJECT_DIR$/src/Aula11.sql" connection-id="c58e0893-63df-4477-bef5-223ba9714e91" session-id="MAIN" current-schema="cadastro" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
